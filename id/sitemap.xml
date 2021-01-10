@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://example.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/blog/</loc>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/en/tags/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://example.com/tags/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/cloudflare/</loc>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/en/tags/cloudflare/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://example.com/tags/cloudflare/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/github-pages/</loc>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/en/tags/github-pages/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://example.com/tags/github-pages/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://example.com/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/ssl/</loc>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/en/tags/ssl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://example.com/tags/ssl/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://example.com/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.com/post/new-year-new-blog/</loc>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/en/post/new-year-new-blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://example.com/post/new-year-new-blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://example.com/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.com/about/</loc>
+  </url>
+  
+</urlset>
