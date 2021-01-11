@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hi, I am Albilaga</title>
-    <link>https://albilaga.github.io/en/tags/</link>
+    <link>https://albilaga.id/en/tags/</link>
     <description>Recent content in Tags on Hi, I am Albilaga</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id</language>
-    <lastBuildDate>Sat, 09 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://albilaga.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://albilaga.id/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blog</title>
-      <link>https://albilaga.github.io/en/tags/blog/</link>
+      <link>https://albilaga.id/en/tags/blog/</link>
       <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://albilaga.github.io/en/tags/blog/</guid>
+      <guid>https://albilaga.id/en/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cloudflare</title>
-      <link>https://albilaga.github.io/en/tags/cloudflare/</link>
+      <link>https://albilaga.id/en/tags/cloudflare/</link>
       <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://albilaga.github.io/en/tags/cloudflare/</guid>
+      <guid>https://albilaga.id/en/tags/cloudflare/</guid>
       <description></description>
     </item>
     
     <item>
       <title>github pages</title>
-      <link>https://albilaga.github.io/en/tags/github-pages/</link>
+      <link>https://albilaga.id/en/tags/github-pages/</link>
       <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://albilaga.github.io/en/tags/github-pages/</guid>
+      <guid>https://albilaga.id/en/tags/github-pages/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ssl</title>
-      <link>https://albilaga.github.io/en/tags/ssl/</link>
+      <link>https://albilaga.id/en/tags/ssl/</link>
       <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://albilaga.github.io/en/tags/ssl/</guid>
+      <guid>https://albilaga.id/en/tags/ssl/</guid>
       <description></description>
     </item>
     
