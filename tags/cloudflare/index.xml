@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cloudflare on Albilaga Blog</title>
-    <link>https://albilaga.id/tags/cloudflare/</link>
+    <link>https://albilaga.github.io/tags/cloudflare/</link>
     <description>Recent content in cloudflare on Albilaga Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id</language>
-    <lastBuildDate>Sat, 09 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://albilaga.id/tags/cloudflare/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://albilaga.github.io/tags/cloudflare/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tahun Baru, Blog Baru</title>
-      <link>https://albilaga.id/post/new-year-new-blog/</link>
+      <link>https://albilaga.github.io/post/new-year-new-blog/</link>
       <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://albilaga.id/post/new-year-new-blog/</guid>
+      <guid>https://albilaga.github.io/post/new-year-new-blog/</guid>
       <description>Tidak terasa sudah setahun dari terakhir kali saya menulis blog. Saya selalu membuat resolusi saya tiap awal tahun untuk menulis terus, tetapi saya selalu menemukan alasan untuk tidak melakukannya.</description>
     </item>
     

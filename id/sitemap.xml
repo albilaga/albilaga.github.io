@@ -3,141 +3,141 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://albilaga.id/</loc>
+    <loc>https://albilaga.github.io/</loc>
     <lastmod>2019-02-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://albilaga.id/en/"
+                href="https://albilaga.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="https://albilaga.id/"
+                href="https://albilaga.github.io/"
                 />
   </url>
   
   <url>
-    <loc>https://albilaga.id/tags/blog/</loc>
+    <loc>https://albilaga.github.io/tags/blog/</loc>
     <lastmod>2019-02-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://albilaga.id/en/tags/blog/"
+                href="https://albilaga.github.io/en/tags/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="https://albilaga.id/tags/blog/"
+                href="https://albilaga.github.io/tags/blog/"
                 />
   </url>
   
   <url>
-    <loc>https://albilaga.id/tags/cloudflare/</loc>
+    <loc>https://albilaga.github.io/tags/cloudflare/</loc>
     <lastmod>2019-02-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://albilaga.id/en/tags/cloudflare/"
+                href="https://albilaga.github.io/en/tags/cloudflare/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="https://albilaga.id/tags/cloudflare/"
+                href="https://albilaga.github.io/tags/cloudflare/"
                 />
   </url>
   
   <url>
-    <loc>https://albilaga.id/tags/github-pages/</loc>
+    <loc>https://albilaga.github.io/tags/github-pages/</loc>
     <lastmod>2019-02-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://albilaga.id/en/tags/github-pages/"
+                href="https://albilaga.github.io/en/tags/github-pages/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="https://albilaga.id/tags/github-pages/"
+                href="https://albilaga.github.io/tags/github-pages/"
                 />
   </url>
   
   <url>
-    <loc>https://albilaga.id/post/</loc>
+    <loc>https://albilaga.github.io/post/</loc>
     <lastmod>2019-02-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://albilaga.id/en/post/"
+                href="https://albilaga.github.io/en/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="https://albilaga.id/post/"
+                href="https://albilaga.github.io/post/"
                 />
   </url>
   
   <url>
-    <loc>https://albilaga.id/tags/ssl/</loc>
+    <loc>https://albilaga.github.io/tags/ssl/</loc>
     <lastmod>2019-02-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://albilaga.id/en/tags/ssl/"
+                href="https://albilaga.github.io/en/tags/ssl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="https://albilaga.id/tags/ssl/"
+                href="https://albilaga.github.io/tags/ssl/"
                 />
   </url>
   
   <url>
-    <loc>https://albilaga.id/tags/</loc>
+    <loc>https://albilaga.github.io/tags/</loc>
     <lastmod>2019-02-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://albilaga.id/en/tags/"
+                href="https://albilaga.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="https://albilaga.id/tags/"
+                href="https://albilaga.github.io/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://albilaga.id/post/new-year-new-blog/</loc>
+    <loc>https://albilaga.github.io/post/new-year-new-blog/</loc>
     <lastmod>2019-02-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://albilaga.id/en/post/new-year-new-blog/"
+                href="https://albilaga.github.io/en/post/new-year-new-blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="https://albilaga.id/post/new-year-new-blog/"
+                href="https://albilaga.github.io/post/new-year-new-blog/"
                 />
   </url>
   
   <url>
-    <loc>https://albilaga.id/categories/</loc>
+    <loc>https://albilaga.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://albilaga.id/en/categories/"
+                href="https://albilaga.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="https://albilaga.id/categories/"
+                href="https://albilaga.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://albilaga.id/about/</loc>
+    <loc>https://albilaga.github.io/about/</loc>
   </url>
   
 </urlset>
