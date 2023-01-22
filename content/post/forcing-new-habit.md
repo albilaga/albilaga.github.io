@@ -4,7 +4,7 @@ date = "2023-01-22"
 tags = ["habit", "kebiasaan", "self improvement"]
 +++
 
-Tidak terasa sudah lama saya tidak menulis lagi. Terakhir menulis di blog ini padahal judulnya uda keren ["Tahun Baru, Blog Baru](/post/new-year-new-blog.md). Tapi bahkan 4 tahun kemudian hanya itulah konten yang ada di blog ini. Yap saya membohongi dirinya sendiri ketika dia bilang ingin menulis blog lagi 😆
+Tidak terasa sudah lama saya tidak menulis lagi. Terakhir menulis di blog ini padahal judulnya uda keren ["Tahun Baru, Blog Baru"](/post/new-year-new-blog/). Tapi bahkan 4 tahun kemudian hanya itulah konten yang ada di blog ini. Yap saya membohongi dirinya sendiri ketika dia bilang ingin menulis blog lagi 😆
 
 Nah sekarang saya ingin memaksa habit lama ini lagi, yaitu menulis blog. Sebenarnya untuk memulai kebiasaan baru tidaklah susah. Kalau kita baca-baca pasti kita suruh mulai dari target kecil agar tidak terbebani dan dilakukan **terus menerus**. Itulah kata kuncinya, **terus menerus**. Inilah yang saya dan mungkin teman-teman juga kesulitan melakukannya.
 
