@@ -4,7 +4,7 @@ date = "2023-01-22"
 tags = ["habit", "personal", "life", "self improvement"]
 +++
 
-It doesn't feel like that long I haven't written again. Last time I wrote in this blog even though the title was cool ["New Year, New Blog"](/post/new-year-new-blog/). But even 4 years later, that's the only content in this blog.Yep, I lied to myself when I want to write blog again 😆
+It doesn't feel like that long I haven't written again. Last time I wrote in this blog even though the title was cool ["New Year, New Blog"](/en/post/new-year-new-blog/). But even 4 years later, that's the only content in this blog.Yep, I lied to myself when I want to write blog again 😆
 
 So now I want to force this old habit again, which is writing blog. Actually to start a new habit is not really hard. If we reading from the books or articles, we usually be told to start with a small target so we won't be burdened and do it **continously**. That's the keyword, **continously**. This is what I and maybe you also have trouble to do it.
 
