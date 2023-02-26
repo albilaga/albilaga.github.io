@@ -1,0 +1,15 @@
++++
+title =  "Ever Changing Dream"
+date = "2023-02-26"
+tags = ["parallel universe", "work", "dream"]
++++
+
+Finally got the chance to write again after around 2/3 weeks of not writing 😁 The theme for writing this time is quite unique and also challenging. The theme given is "My Dream Job in Parallel Universe". Looking back it seems that my dreams have always been changing.
+
+When I was little I remember my dream was to become a pilot. Seeing pilots can fly around the world feels like freedom. Then that dream disappeared when I was a teenager when I had a phobia of heights and wore glasses. Are there any pilots who have a phobia of heights? 😥
+
+Growing up, when I was a teenager when I just understood computers, I really wanted to work in the computer field (before I didn't understand the terms like software engineer and programmer). I remember very well when I was in high school, I liked to modify views on Friendster, such as making statuses that could be like writing myself, twinkling themes and so on. I also took part in a computer olympiad even though I can only reach to the provincial level. In college, I also a bit stubborn with my parents and finally dropped out of college so I could take major in informatics. And now that I'm working in the world of software engineering, it seems that computers aren't that interesting anymore. Don't know why either.
+
+Lately, my dream has been to become a book cafe owner or a barista. Recently, I really like watching YouTube videos like [Zoe's videos](https://www.youtube.com/watch?v=_mfy-UwmuLE) and others. I also remember once when I was in junior high / high school I often go to comic rental places to be able to rent comics such as Death Note, Detective Conan, and so on. But comic rental is just a comic rental place. We can't linger there because the concept is to encourage those who come to see, rent and then leave. So then I am thinking Why not combine the concept of reading and cafe? But maybe sometimes a busy atmosphere makes us not concentrate on reading a book, but I think we can outsmart it. Maybe by letting the consumer borrowing noise canceling headphones or providing a special room like a library where people can just focus on reading. Of course, there must be various kinds of books, not just comics. It can also be textbooks so people who want to do research can stop by, it can be fiction novels too, or it can be digital books where we can put some kind of Kindle or something else where there are lots of books available. So apart from being a fun facility, book cafes can also be a place for learning and maybe even meet friends who like the same genre of books.
+
+But the dream above is still just a dream. To become a book owner, of course, we must have very large capital. Becoming a barista also means that I have to swerve from my current job and start from 0 again and take certification etc, which is already difficult to do when you already have something like mortgage. So for now let it be a dream...
