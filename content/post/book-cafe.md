@@ -1,0 +1,15 @@
++++
+title =  "Mimpi yang terus berubah"
+date = "2023-02-26"
+tags = ["parallel universe", "kerja", "impian", "mimpi"]
++++
+
+Akhirnya berkesempatan nulis lagi setelah mungkin 2/3 minggu tidak menulis 😁 Tema menulis kali ini cukup unik dan juga menantang. Tema yg diberikan adalah "My Dream Job in Parallel Universe". Menilik ke belakang sepertinya impian saya selalu berubah-ubah.
+
+Waktu kecil saya ingat cita-cita saya adalah menjadi pilot. Melihat pilot bisa terbang keliling dunia rasanya seperti bebas. Kemudian mimpi itu sedikit hilang ketika saya beranjak remaja ketika saya phobia ketinggian dan memakai kacamata. Mana ada kan ya pilot yg phobia ketinggian? 😥
+
+Beranjak remaja ketika baru mengerti komputer, saya sangat ingin bekerja di bidang komputer (dulu belum mengerti istilah *software engineer* maupun *programmer*). Saya ingat betul waktu SMA suka modifikasi tampilan-tampilan di friendster seperti membuat status yg bisa seperti menulis sendiri, tema kerlap-kerlip dan sebagainya. Saya juga sempat ikut olimpiade komputer meski harus kandas di tingkat propinsi. Kuliah pun dulu sempat agak membandel dengan orang tua dan akhirnya sempat putus kuliah demi bisa kuliah lagi di bidang informatika. Dan sekarang setelah kerja di dunia *software engineering* rasanya komputer ternyata tidak semenarik itu lagi. Kurang tau kenapa juga.
+
+Akhir-akhir ini, mimpi yang terbersit adalah malah menjadi pemilik kafe buku atau menjadi barista. Saya akhir-akhir ini suka sekali liat video-video youtube seperti [video Zoe](https://www.youtube.com/watch?v=_mfy-UwmuLE) dan lain-lain. Saya juga ingat sekali waktu SMP / SMA saya sering ke tempat sewa komik untuk bisa sewa komik seperti *Death Note*, *Detective Conan*, dan sebagainya. Tapi sewa komik hanyalah tempat sewa komik. Kita tidak bisa berlama-lama di sana karena memang konsepnya adalah mendorong yang datang untuk lihat, sewa lalu pergi. Kenapa tidak menggabungkan konsep baca dan kafe? Mungkin kadang suasana yang rame membuat kita tidak konsentrasi untuk membaca buku, tapi saya rasa kita bisa mengakali itu. Mungkin dengan kasih pinjam *noise cancelling headphone* atau disediakan ruang khusus yang seperti perpustakaan di mana orang bisa fokus membaca saja. Tentu bukunya juga harus bermacam-macam, tidak hanya komik saja. Bisa juga buku bacaan pelajaran jadi orang mau riset bisa mampir, bisa buku novel fiksi juga, atau bisa juga buku digital di mana kita bisa taruh semacam kindle atau yg lainnya yang sudah tersedia banyak buku. Jadi selain untuk sarana *fun* kafe buku pun bisa jadi sarana belajar untuk teman-teman dan mungkin malah bertemu dengan teman pecinta satu genre buku yang sama.
+
+Namun mimpi tersebut di atas tetaplah hanyalah mimpi. Untuk menjadi pemilik buku tentunya kita harus punya modal yang sangat besar. Untuk menjadi barista pun berarti saya harus banting setir dari pekerjaan sekarang dan mulai dari 0 lagi dan ikut sertifikasi dkk, yang mana hal ini sudah sulit dilakukan ketika sudah punya tanggungan. Jadi untuk sementara biarkan itu jadi mimpi saja dulu...
