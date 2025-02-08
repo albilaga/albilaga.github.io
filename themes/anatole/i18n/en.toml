@@ -8,6 +8,10 @@ other = "tag"
 one = "One-minute read"
 other = "{{ .Count }}-minute read"
 
+[old_content_warning]
+one = "Warning: This post is over {{ .Count }} day old. The information may be out of date."
+other = "Warning: This post is over {{ .Count }} days old. The information may be out of date."
+
 [page_not_found]
 other = "Page Not Found"
 
@@ -22,3 +26,30 @@ other = "comments"
 
 [send]
 other = "Send"
+
+[read_more]
+other = "Read more"
+
+[name]
+other = "Name"
+
+[email]
+other = "Email"
+
+[message]
+other = "Message" 
+
+[warning]
+other = "Warning"
+
+[info]
+other = "Info"
+
+[update]
+other = "Update"
+
+[series_posts]
+other = "Posts in this series"
+
+[related_posts]
+other = "Related Posts"

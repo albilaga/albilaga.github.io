@@ -22,3 +22,30 @@ other = "评论"
 
 [send]
 other = "发送"
+
+[read_more]
+other = "继续阅读"
+
+[name]
+other = "姓名"
+
+[email]
+other = "电子邮件"
+
+[message]
+other = "信息"
+
+[warning]
+other = "警告"
+
+[info]
+other = "关于"
+
+[update]
+other = "更新"
+
+[series_posts]
+other = "这个系列的帖子"
+
+[related_posts]
+other = "类似的帖子"
