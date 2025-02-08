@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Albilaga Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Albilaga Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id</language>
+    <lastBuildDate>Sun, 26 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mimpi yang terus berubah</title>
+      <link>http://localhost:1313/post/ever-changing-dream/</link>
+      <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/ever-changing-dream/</guid>
+      
+        <description>&lt;p&gt;Akhirnya berkesempatan nulis lagi setelah mungkin 2/3 minggu tidak menulis 😁 Tema menulis kali ini cukup unik dan juga menantang. Tema yg diberikan adalah &amp;ldquo;My Dream Job in Parallel Universe&amp;rdquo;. Menilik ke belakang sepertinya impian saya selalu berubah-ubah.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Arti dari Keluarga</title>
+      <link>http://localhost:1313/post/meaning-of-family/</link>
+      <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/meaning-of-family/</guid>
+      
+        <description>&lt;p&gt;Tema #klub-menulis kali ini cukup membuat saya bingung. Temanya adalah berkenalan dan wawancara orang baru. Bagaimana tidak bingung, karena saya yang tiap harinya hampir pasti di rumah terus, tiba-tiba disuruh kenalan dengan orang baru. Jadi mungkin isi dari wawancara ini sebetulnya bukan kenalan dengan orang baru tapi teman lama saya. Tetapi hasil ngobrolnya menurutku menarik jadi ingin saya share dengan teman-teman yang sedang membaca tulisan ini.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Memaksakan Kebiasaan Baru</title>
+      <link>http://localhost:1313/post/forcing-new-habit/</link>
+      <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/forcing-new-habit/</guid>
+      
+        <description>&lt;p&gt;Tidak terasa sudah lama saya tidak menulis lagi. Terakhir menulis di blog ini padahal judulnya uda keren &lt;a href=&#34;http://localhost:1313/post/new-year-new-blog/&#34;&gt;&amp;ldquo;Tahun Baru, Blog Baru&amp;rdquo;&lt;/a&gt;. Tapi bahkan 4 tahun kemudian hanya itulah konten yang ada di blog ini. Yap saya membohongi dirinya sendiri ketika dia bilang ingin menulis blog lagi 😆&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Tentang</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      
+        <description>Blog albilaga</description>
+      
+    </item>
+    
+    <item>
+      <title>Tahun Baru, Blog Baru</title>
+      <link>http://localhost:1313/post/new-year-new-blog/</link>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/new-year-new-blog/</guid>
+      
+        <description>&lt;p&gt;Tidak terasa sudah setahun dari terakhir kali saya menulis &lt;a href=&#34;https://medium.com/dotnetid/membuat-chatbot-apps-menggunakan-bot-framework-dan-xamarin-f3aaad3f283&#34;&gt;blog&lt;/a&gt;. Saya selalu membuat resolusi saya tiap awal tahun untuk menulis terus, tetapi saya selalu menemukan alasan untuk tidak melakukannya. Saya tidak tahu kenapa saya sendiri selalu malas untuk menulis blog.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

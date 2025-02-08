@@ -22,3 +22,30 @@ other = "commentaire"
 
 [send]
 other = "Envoyer"
+
+[read_more]
+other = "continuer la lecture"
+
+[name]
+other = "Nom"
+
+[email]
+other = "Email"
+
+[message]
+other = "Message"
+
+[warning]
+other = "Attention"
+
+[info]
+other = "À propos"
+
+[update]
+other = "mettre à jour"
+
+[series_posts]
+other = "Articles dans cette série"
+
+[related_posts]
+other = "Messages similaires"

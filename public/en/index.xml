@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hi, I am Albilaga</title>
+    <link>http://localhost:1313/en/</link>
+    <description>Recent content on Hi, I am Albilaga</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 26 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ever Changing Dream</title>
+      <link>http://localhost:1313/en/post/ever-changing-dream/</link>
+      <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/post/ever-changing-dream/</guid>
+      
+        <description>&lt;p&gt;Finally got the chance to write again after around 2/3 weeks of not writing 😁 The theme for writing this time is quite unique and also challenging. The theme given is &amp;ldquo;My Dream Job in Parallel Universe&amp;rdquo;. Looking back it seems that my dreams have always been changing.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Meaning of Family</title>
+      <link>http://localhost:1313/en/post/meaning-of-family/</link>
+      <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/post/meaning-of-family/</guid>
+      
+        <description>&lt;p&gt;The theme #klub-menulis this time surely really challenging and make me confused. The theme is meeting and interviewing new people. How could I not be confused, because I, who almost always at home every day, was suddenly asked to meet new people and talk with them. So maybe the content of this interview is not interview with new people but with my old friend. But the result of the conversation is quite interesting, so I want to share it with all the readers here.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Forcing New Habit</title>
+      <link>http://localhost:1313/en/post/forcing-new-habit/</link>
+      <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/post/forcing-new-habit/</guid>
+      
+        <description>&lt;p&gt;It doesn&amp;rsquo;t feel like that long I haven&amp;rsquo;t written again. Last time I wrote in this blog even though the title was cool &lt;a href=&#34;http://localhost:1313/en/post/new-year-new-blog/&#34;&gt;&amp;ldquo;New Year, New Blog&amp;rdquo;&lt;/a&gt;. But even 4 years later, that&amp;rsquo;s the only content in this blog.Yep, I lied to myself when I want to write blog again 😆&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>New Year, New Blog</title>
+      <link>http://localhost:1313/en/post/new-year-new-blog/</link>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/post/new-year-new-blog/</guid>
+      
+        <description>&lt;p&gt;It&amp;rsquo;s already a year from the last time I do &lt;a href=&#34;https://medium.com/dotnetid/membuat-chatbot-apps-menggunakan-bot-framework-dan-xamarin-f3aaad3f283&#34;&gt;blog&lt;/a&gt;. I always set my resolution every year to do more blogging but it seems I always find excuse to not do that. I don&amp;rsquo;t know why I always lazy to do it.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
