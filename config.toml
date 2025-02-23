@@ -22,14 +22,14 @@ keywords = ""
 favicon = "images/favicon.icon"
 customCss = []
 customJs = []
-mainSections = ["post"]
+mainSections = ["posts"]
 # images = ["images/site-feature-image.png"]
 # Google Site Verification
 #googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
 
 ## Math settings
 [params.math]
-enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
+enable = false # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
 use = "katex"  # options: "katex", "mathjax". default is "katex".
 
 ## Social links
@@ -58,17 +58,17 @@ url = "mailto:albilaga.@pm.me"
 
 [menu]
 
-  #[[menu.main]]
-  #name = "Beranda"
-  #identifier = "home"
-  #weight = 100
-  #url = "/"
+#[[menu.main]]
+#name = "Beranda"
+#identifier = "home"
+#weight = 100
+#url = "/"
 
-  #[[menu.main]]
-  #name = "Blog"
-  #weight = 200
-  #identifier = "posts"
-  #url = "/post/"
+#[[menu.main]]
+#name = "Blog"
+#weight = 200
+#identifier = "posts"
+#url = "/post/"
 
 #  [[menu.main]]
 #  name = "Tentang"
@@ -77,20 +77,20 @@ url = "mailto:albilaga.@pm.me"
 #  url = "/about/"
 
 [languages]
-  [languages.id]
-    weight = 1
-    languageName = "Indonesia"
-  [languages.en]
-    weight = 2
-    title = "Hi, I am Albilaga"
-    description = "A software engineer based in Malang"
-    languageName = "English"
-    #[[languages.en.menu.main]]
-    #url    = "/en/"
-    #name   = "Home"
-    #weight = 100
-    [[languages.en.menu.main]]
-    #name = "Blog"
-    #weight = 200
-    #identifier = "posts"
-    #url = "/post/"
+[languages.id]
+weight = 1
+languageName = "Indonesia"
+[languages.en]
+weight = 2
+title = "Hi, I am Albilaga"
+description = "A software engineer based in Malang"
+languageName = "English"
+#[[languages.en.menu.main]]
+#url    = "/en/"
+#name   = "Home"
+#weight = 100
+[[languages.en.menu.main]]
+#name = "Blog"
+#weight = 200
+#identifier = "posts"
+#url = "/post/"
