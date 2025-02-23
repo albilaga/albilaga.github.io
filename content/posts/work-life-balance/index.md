@@ -16,9 +16,9 @@ Kita sering dengar orang bilang "work-life balance" itu penting banget saat cari
 
 ### Kilas Balik Sejarah ⏳
 
-Dulu, saat pabrik-pabrik mendominasi dunia, kerja 10-16 jam sehari itu hal biasa. Lalu, di awal abad ke-19, [Robert Owen mencetuskan slogan](https://id.wikipedia.org/wiki/Delapan_jam_kerja_sehari) *"Delapan jam kerja, delapan jam rekreasi, delapan jam istirahat"*.
+Sebelum kita memiliki jam kerja 8 jam seperti saat ini, kerja 10-16 jam sehari itu hal biasa. Lalu, di awal abad ke-19, [Robert Owen mencetuskan slogan](https://id.wikipedia.org/wiki/Delapan_jam_kerja_sehari) *"Delapan jam kerja, delapan jam rekreasi, delapan jam istirahat"*.
 
-Lompat ke sekarang ini – kebanyakan negara (termasuk Indonesia) udah pakai sistem kerja 8 jam perhari (40 jam per minggu). Matematika sederhana, kan? 24 jam ÷ 3 = keseimbangan sempurna!
+Lompat ke sekarang ini – kebanyakan negara (termasuk Indonesia) udah pakai sistem kerja 8 jam perhari (40 jam per minggu). Secara teori ini keliatan sempurna, kita cuma punya 24 jam sehari jadi kita bisa membaginya menjadi 3 bagian, sehingga kita bisa efektif dalam bekerja dan istirahat.
 
 *Atau iya nggak sih?*
 
@@ -58,10 +58,10 @@ Jadi, apa sih sebenernya work-life balance itu? Sebagai seorang engineer, saya m
 - Semua orang: **Burnout bukan tanda kehormatan**
 
 Keseimbangan kamu mungkin terlihat seperti:
-🌴 Liburan tanpa gadget
-🎮 Main game atau ngerjain proyek hobi di akhir pekan
-📚 Belajar Rust "sekadar iseng"
-🐶 Bermain dengan hewan peliharaan, bukan cuma posting meme hewan peliharaan
+- 🌴 Liburan tanpa gadget
+- 🎮 Main game atau ngerjain proyek hobi di akhir pekan
+- 📚 Belajar Rust "sekadar iseng"
+- 🐶 Bermain dengan hewan peliharaan, bukan cuma posting *meme* hewan peliharaan
 
 ---
 

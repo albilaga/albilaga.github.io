@@ -16,9 +16,9 @@ We have been hearing from many people before who said "Work-Life balance" is rea
 
 ### A Quick History Lesson ⏳
 
-Back when factories ruled the world, 10-16 hour workdays were the norm. And then in the early 19th century, [Robert Owen coined the slogan](https://en.wikipedia.org/wiki/Eight-hour_day_movement) *"Eight hours' labour, Eight hours' recreation, Eight hours' rest"*.
+Before we have what we have right now, which is 8 hours working hours, we usually have working hours from 10-16 working hours. And then in the early 19th century, [Robert Owen coined the slogan](https://en.wikipedia.org/wiki/Eight-hour_day_movement) *"Eight hours' labour, Eight hours' recreation, Eight hours' rest"*.
 
-Fast forward to today – most countries (including Indonesia, though we joined the party a bit later) adopted the 8 hours workday (or 40 hours workweek). Simple math, right? 24 hours ÷ 3 = perfect balance!
+Fast forward to today – most countries (including Indonesia, though we joined the party a bit later) adopted the 8 hours workday (or 40 hours workweek). In theory this seems perfect, we only have 24 hours a day so we have to split it to 3 section, so we can effectively use most of our day.
 
 *Or is it?*
 
@@ -58,10 +58,10 @@ So what is actually work life balance? As a senior engineer, I want to say "It d
 - Everyone: **Burnout isn’t a badge of honor**
 
 Your balance might look like:
-🌴 Taking a tech-free vacation
-🎮 Spending weekends playing game or doing some hobby porject
-📚 Learning Rust "just because"
-🐶 Actually petting your dog instead of just posting dog memes
+- 🌴 Taking a tech-free vacation
+- 🎮 Spending weekends playing game or doing some hobby porject
+- 📚 Learning Rust "just because"
+- 🐶 Actually petting your dog instead of just posting dog memes
 
 ---
 
